@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddItemRequest xmlns="urn:ebay:apis:eBLBaseComponents">
+  <RequesterCredentials>
+    <eBayAuthToken>v^1.1#i^1#r^0#f^0#p^3#I^3#t^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</eBayAuthToken>
+  </RequesterCredentials>
+  <ErrorLanguage>en_US</ErrorLanguage>
+  <WarningLevel>High</WarningLevel>
+  <Item>
+    <AutoPay>0</AutoPay>
+    <BestOfferDetails>
+      <BestOfferEnabled>1</BestOfferEnabled>
+    </BestOfferDetails>
+    <BuyerResponsibleForShipping>1</BuyerResponsibleForShipping>
+    <ConditionDescription>Used in good working condition, see pictures for details.</ConditionDescription>
+    <ConditionID>3000</ConditionID>
+    <Title>Harry Potter and the Philosopher's Stone</Title>
+    <Description>
+      Up for sale in good working condition, see pictures for details.
+      Thanks.
+    </Description>
+    <PrimaryCategory>
+      <CategoryID>171219</CategoryID>
+    </PrimaryCategory>
+    <StartPrice>25.0</StartPrice>
+    <CategoryMappingAllowed>true</CategoryMappingAllowed>
+    <Country>US</Country>
+    <Currency>USD</Currency>
+    <DispatchTimeMax>3</DispatchTimeMax>
+    <ListingType>FixedPriceItem</ListingType>
+    <ListingDuration>GTC</ListingDuration>
+    <PictureDetails>
+      <GalleryType>Gallery</GalleryType>
+      <PictureURL>https://res.cloudinary.com/dleagle/image/upload/v1640790789/appliancesdepot/v9kcpigenug6gr7m9xl9.jpg</PictureURL>
+    </PictureDetails>
+    <PostalCode>32211</PostalCode>
+    <Quantity>1</Quantity>
+    <ItemSpecifics>     
+       <NameValueList> 
+          <Name>Title</Name>
+          <Value>Harry Potter and the Philosophers Stone</Value> 
+       </NameValueList> 
+       <NameValueList> 
+          <Name>Publisher</Name> 
+          <Value>Smashwords</Value> 
+       </NameValueList> 
+       <NameValueList> 
+          <Name>Author</Name> 
+          <Value>JK Rowling</Value> 
+       </NameValueList> 
+       <NameValueList> 
+          <Name>Language</Name> 
+          <Value>English</Value> 
+       </NameValueList>
+    </ItemSpecifics>
+    <ReturnPolicy>
+      <ReturnsAcceptedOption>ReturnsAccepted</ReturnsAcceptedOption>
+      <RefundOption>MoneyBack</RefundOption>
+      <ReturnsWithinOption>Days_30</ReturnsWithinOption>
+      <ShippingCostPaidByOption>Buyer</ShippingCostPaidByOption>
+    </ReturnPolicy>
+    <ShippingDetails>
+      <ShippingType>Calculated</ShippingType>
+      <ShippingServiceOptions>
+        <ShippingServicePriority>1</ShippingServicePriority>
+        <ShippingService>USPSMedia</ShippingService>
+        <ShippingServiceCost>0.00</ShippingServiceCost>
+      </ShippingServiceOptions>
+    </ShippingDetails>
+    <Site>US</Site>
+  </Item>
+</AddItemRequest>

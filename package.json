@@ -1,0 +1,42 @@
+{
+  "name": "nodejs-express-sequelize-mysql",
+  "version": "1.0.0",
+  "description": "Node.js Rest Apis with Express, Sequelize & MySQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "mysql",
+    "rest",
+    "api"
+  ],
+  "author": "jcdaguila",
+  "license": "ISC",
+  "dependencies": {
+    "@hendt/ebay-api": "^5.2.0",
+    "@woocommerce/woocommerce-rest-api": "^1.0.1",
+    "body-parser": "^1.19.0",
+    "cloudinary": "^1.27.1",
+    "cors": "^2.8.5",
+    "ebay-node-client": "^0.0.10",
+    "express": "^4.17.1",
+    "facebook-node-sdk": "^0.2.0",
+    "facebook-nodejs-business-sdk": "^12.0.1",
+    "fb": "^2.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "oauth": "^0.9.15",
+    "oauth2": "^0.0.1",
+    "object-to-xml": "^2.0.0",
+    "react-facebook-login": "^4.1.1",
+    "request": "^2.88.2",
+    "sequelize": "^6.5.0",
+    "tesseract.js": "^2.1.5",
+    "xml2js": "^0.4.23"
+  }
+}
